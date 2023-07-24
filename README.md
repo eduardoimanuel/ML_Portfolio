@@ -1,12 +1,13 @@
-# Machine Learning Portfolio
+<h1 align="center"> Machine Learning Portfolio </h1>
 
 Welcome!
 
-This repository is portfolios that are related to machine learning / data science from
-**Eduardo Imanuel Bastian**
+This repository is portfolios that are related to machine learning / data science from <br/>
+<h3 align="center">Eduardo Imanuel Bastian </h3><br/>
 I am an ITB (Bandung Institute of Technology) graduate in Aerospace Engineering that has deep passion in machine learning and data science.
 
-There are three projects on this repository
+There are three projects on this repository:
+
 
 ## 1. Baggage Jam Detection Using Computer Vision
 To solve undetected baggage jam in airport baggage handling system, a baggage jam detection using computer vision is developed. The system is developed based on the real case in Yogyakarta International Airport, Indonesia (ICAO: WAHI). THe system is developed using TensorFlow Object Detection API by implementing transfer learning of SSD Mobilenet neural network model. 
