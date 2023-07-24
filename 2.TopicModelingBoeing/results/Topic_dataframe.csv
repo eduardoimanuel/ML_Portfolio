@@ -1,0 +1,41 @@
+Topic,Weight,ACN,Top word,Word weight,Topic title,Topic proportion
+0,0.94378173,1463011,engine,0.0039104572,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.942585,1725655,fuel,0.0032699811,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.9424226,1033738,cabin,0.002931565,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.9416509,1557529,atc,0.00265879,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.94158506,1706609,altitude,0.0026437815,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.9409779,1545916,aircraft,0.0025780036,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.9409407,1385494,fire,0.0025730552,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.9399799,1804712,checklist,0.0025654691,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.9393518,1104304,feet,0.0024296213,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+0,0.93889064,1333091,1,0.0024036444,Emergency Landings due to System Problems: Cabin Air and Electrical,38.40261459350586
+1,0.9361218,1426356,approach,0.0047876006,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.934064,1580539,flap,0.0043161088,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.9331404,1446968,runway,0.004248854,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.9321439,1748317,takeoff,0.003848524,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.93158495,1526663,speed,0.0031759434,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.9314168,1351346,tower,0.0030469687,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.9313494,1706031,feet,0.0029226851,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.93102026,1789839,aircraft,0.0028749076,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.92978275,1382375,airspeed,0.002594216,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+1,0.92939633,1523073,knot,0.0025597194,Human Factors and Systems Issues in Arrival and Departure,28.04193878173828
+2,0.94625586,1821087,smell,0.008092771,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.94134694,1387761,odor,0.005055847,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.9382761,1662674,attendant,0.0043197107,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.9376983,1702004,fume,0.0037948373,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.93755144,1603421,flight,0.0034146183,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.9373859,1350577,cabin,0.003111439,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.93689764,1271024,smoke,0.0028758391,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.9354436,1092620,passenger,0.0028528473,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.9337117,1688616,say,0.002713908,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+2,0.932338,1322760,aircraft,0.002503781,Fume and Passenger Issues Affecting Flight Crew,18.027673721313477
+3,0.948763,1789391,engine,0.0063075465,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.9328367,1809861,trim,0.0052536037,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.9305924,1789372,hydraulic,0.005058962,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.9289646,1857658,oil,0.0048412,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.9266938,1806979,fuel,0.0043685664,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.92607087,1328556,checklist,0.0038027742,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.9234028,1844205,pressure,0.003779439,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.9233238,1607411,quantity,0.003207105,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.92328274,1865270,flap,0.0031429157,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
+3,0.92259693,1594404,system,0.0031153213,In-flight system problems: Hydraulic Engine and Airspeed,15.527772903442383
