@@ -19,4 +19,5 @@ Analyzing a huge amount of text reports could be simplified using unsupervised l
 
 
 ## 3. Sentiment Analysis on the *Oppenheimer* Movie
-*Oppenheimer* movie is one of the most best-selling movie in 2023. By implementing sentiment analysis from IMDB reviews, one can understand how are the users feedback on the movie.
+<p align="center"><img src="3.OppenheimerSentiment/poster.jpeg" width="474px"></p>
+*Oppenheimer* movie is one of the biggest movies released in 2023 directed by famous filmmaker Christoper Nolan. By implementing sentiment analysis from IMDB reviews, one can understand how are the users' feedback on the movie.
